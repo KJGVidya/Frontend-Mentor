@@ -1,0 +1,37 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  align-items: center;
+}
+
+.Rectangle {
+  margin: 10% 40%;
+  width: 20%;
+  height: 70%;
+  background-color: white;
+  border-radius: 15px;
+}
+
+.Rectangle img {
+  display: block;
+  margin: auto;
+  max-width: 90%;
+  padding: 4% 4%;
+  border-radius: 8%;
+}
+
+.Rectangle h1{
+  padding: 0 5%;
+  font-family: 'Outfit', sans-serif;
+  text-align: center;
+  font-size: 125%;
+}
+
+.Rectangle p{
+  font-size: 90%;
+  padding-bottom: 15%;
+  padding-left: 10%;
+  padding-right: 10%;
+  font-family: "Outfit", sans-serif;
+  text-align: center;
+  color:hsl(220, 15%, 55%)
+}
